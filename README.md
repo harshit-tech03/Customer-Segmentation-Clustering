@@ -20,7 +20,7 @@ One very common machine learning algorithm that’s suitable for customer segmen
 
 
 ### Finding the optimal number of clusters
-![Customer_segmentation_ml](https://user-images.githubusercontent.com/60794605/196676310-f78f57b6-58c1-45f0-b51b-158a7d326500.png)![elbow_customer_segmentation_ml](https://user-images.githubusercontent.com/60794605/196676407-22ad32b3-eb5f-474c-9a8e-d5b23c053c7a.png)
+![Customer_segmentation_ml](https://user-images.githubusercontent.com/60794605/196676310-f78f57b6-58c1-45f0-b51b-158a7d326500.png)
 
 
 ### Visualizing customer segments
